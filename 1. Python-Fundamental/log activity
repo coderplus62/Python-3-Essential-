@@ -1,0 +1,57 @@
+21/02/2022 : Finish video 1 until 5
+    Details: Make simple code (print, math, string, slice, and list)
+
+22/02/2022 : Finish video 6
+    Details: if, elif, else, shortcuts
+
+23/02/2022 : Finish video 7
+    Details: apply if statement for string and list
+
+24/02/2022 : Finish video 8
+    Details: apply for loop on the integer, list, string, and character iteration
+
+25/02/2002 : Finish video 9 until 16
+    Details: 1. make for and while loop with else, range, break, continue, and pass
+             2. make simple function, with arguments, and return value
+             3. make Lambda function
+             4. make global and local variable
+
+26/02/2002 : Finish video 17 until 22
+    Details: 1. manipulate list with append, extend, insert, count, remove, reversed, and copy
+             2. manipulate stacks and queues data with append, pop, deque, popleft inside for loop
+             3. know more about tuple data type (dir(): to know what we can do on the data, getsizeof(): get the data size, timeit.timeit(): get time needed to process the data)
+             4. know more about set data type ('himpunan', union, intersect)
+             5. know more about dictionary data type (.keys(), .values(), .items())
+             6. more on looping technique (enumerate, zip with list,set,and dictionary data type)
+
+27/02/2002 : Finish video 23 until 25
+    Details: 1. create module and import it in the same directory (import 'module_name')
+             2. create advance modules and integrate it
+             3. create package from advance modules
+             4. use '__init__.py' to call modules and function with * (from .module_name import *)
+
+28/02/2002 : Finish video 26 until 22
+    Details: 1. manipulate list with append, extend, insert, count, remove, reversed, and copy
+             2. manipulate stacks and queues data with append, pop, deque, popleft inside for loop
+             3. know more about tuple data type (dir(): to know what we can do on the data, getsizeof(): get the data size, timeit.timeit(): get time needed to process the data)
+             4. know more about set data type ('himpunan', union, intersect)
+             5. know more about dictionary data type (.keys(), .values(), .items())
+             6. more on looping technique (enumerate, zip with list,set,and dictionary data type)
+
+01/03/2002 : Finish video 23 until 27
+    Details: 1. create package (should make directory and put all module there. To call the package use 'from package_name import module_name')
+             2. using '__main__' to know the source of package,module, or function. Also it can indicate if the code is main or not
+             3. crete class attribute (name)
+             4. create method. method is a function that used in the class. using self to inherit the input from one method to other
+             5. using '__init__' method to initialize all parameter
+
+02/03/2002 : Finish video 28 until 35
+    Details: 1. create private attribute using '__attribute.name' private attribute avoid people to see the value and hack the data
+             2. create class variable for counter. we can add infinite class variable
+             3. we can apply method to our class from other class. we also can override that to our class
+             4. create input and out text from python using open(file.name, file.extension). there is w, r, a, and r+ (check the code)
+             5. create basic GUI using TkInter
+             6. using external package (PIL). PLI is used to display image
+             7. comprehend virtual environment
+             8. detect error using try and exception. (1. IOError 2. ImportError, 3. ValueError, 4. Division by zero, 5. KeyboardInterupted, 6. EOFError)
+

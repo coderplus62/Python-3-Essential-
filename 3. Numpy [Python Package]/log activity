@@ -1,0 +1,23 @@
+28/02/2002 : Finish video 1 until 4
+    Details: 1. install numpy package and looks differences between array and list
+             2. create array using built in function from numpy (.arange, .linspace, .zeroes, .ones, .identity, .eyes)
+             3. using basic arithmetic to list and array to find the differences
+             4. get index, slice and iterate the array
+             5. know more about dictionary data type (.keys(), .values(), .items())
+             6. more on looping technique (enumerate, zip with list,set, and dictionary data type)
+
+01/03/2002 : Finish video 5 until 9
+    Details: 1. using dot product to do matrix multiplication (np.dot(matrix_1,matrix_2))
+             2. apply transpose (np.transpose(matrix)). flatten the matrix using ravel (np.ravel(matrix))
+             3. stack the matrix using hstack (vertically) and vstack (horizontally).
+             4. create array using iterator and np.fromfunction; also create multi-type array (string and int) and specify the data type
+             5. sorting the array using np.sort(array) and sorting from data type; get max and min value from array with the index
+
+02/03/2002 : Finish video 10 until 13
+    Details: 1. more in dot (np.dot(matrix_1,matrix_2)) and cross product(np.cross(matrix_1,matrix_2)).
+             2. find inverse (A_inv = np.linalg.inv(A)) and determinant (A_det = np.linalg.det(A)) on matrix
+             3. solve linear equation. (Y = A.X) -> (X = A_inv.Y)
+             4. plot circle using matplotlib.
+             - plt.figure('figure_name')
+             - plt.plot(x_values,y_values)
+             - plt.show()

@@ -1,0 +1,39 @@
+Course Outline:
+
+1. Importing Data
+2. Exploring Data (Manipulation)
+3. Cleaning Data
+4. Transforming Column/Features
+5. Exploring Data (Exploratory Data Analysis)
+6. Project practice
+
+Real-world datasets:
+
+1. Superhero Information
+2. World Development Indicators
+3. Taxi Rides in NYC
+4. Air Quality in Beijing
+5. Plus More in the Practice Projects!
+
+Python for Data Analysis:
+
+1. JupyterLab
+2. Python libraries: pandas, scikitlearn, seaborn
+
+Pandas Overview:
+
+1. An open-source Python library
+2. Powerful and flexibel data analysis/manipulation tool
+   - filter, manipulate, aggregate, merge, and clean, and more
+3. Excel for Python
+
+Getting started: 
+
+1. Install Python, JypyterLab, and libraries
+2. Download Anaconda 
+
+Course Resources:
+
+1. Recommended to type and follow along the lessons
+2. All the datasets are downloadable with the Resources
+3. Jupyter notebooks are downloadable with the Resources
